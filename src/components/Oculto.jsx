@@ -17,3 +17,4 @@ const Oculto = (props) => {
 }
 
 export default withWidth()(Oculto)
+

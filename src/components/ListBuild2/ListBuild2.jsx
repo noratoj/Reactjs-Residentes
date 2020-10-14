@@ -6,7 +6,7 @@ const ListBuild2 = () => {
         <div>
             
             <Box color="text.primary">
-            Construcción    22222
+            Construcción Siguiente Fase
             </Box>        
             </div>
     )

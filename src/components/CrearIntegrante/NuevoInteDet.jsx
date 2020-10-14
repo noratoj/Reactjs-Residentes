@@ -359,7 +359,6 @@ export default function NuevoInte( { results, handleInputChange, ejecutarCreate 
 
       </FormControl>
 
-
       </div>
 
 

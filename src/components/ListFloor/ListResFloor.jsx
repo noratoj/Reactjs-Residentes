@@ -15,7 +15,7 @@ function ListResFloor ({ results } ) {
                     } else {
                         imagen_var="sinasigna.png"
                     }
-                    var imageName2 = require("../Images2/"+imagen_var)    
+                    var imageName2 = require("../Images/"+imagen_var)    
 
                     return <ListResItem description={result.descripcion} image={imageName2} total={result.nro_hab} name={result.id} torre={result.torre} key={index}/>            
                 })}

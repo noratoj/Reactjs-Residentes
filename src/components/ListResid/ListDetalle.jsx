@@ -79,3 +79,4 @@ export default function ListDetalle( {results } ) {
     </Grid>
   );
 }
+

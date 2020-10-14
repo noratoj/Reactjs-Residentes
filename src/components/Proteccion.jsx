@@ -7,6 +7,7 @@ import { gettoken } from './funciones/tokens'
 
 var token = gettoken()
 
+
 function Proteccion(props) {
          
     const [load, setLoad] = useState(false);

@@ -8,6 +8,7 @@ const Style = {
     width: 260
   };
 
+  
 const ListItem = ({ description, classes, image, total, name }) => {
     return (
         

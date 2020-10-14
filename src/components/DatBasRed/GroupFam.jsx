@@ -28,7 +28,6 @@ const GroupFam = (grupo) => {
         
     }, [url])
  */     
-
     return (
         <div>
             Grupo Familiar

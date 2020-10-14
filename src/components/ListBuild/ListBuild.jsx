@@ -56,5 +56,4 @@ const ListBuild = () => {
         }
     }
 }
-
 export default ListBuild

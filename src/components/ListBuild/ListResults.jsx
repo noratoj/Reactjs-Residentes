@@ -16,7 +16,7 @@ const ListResults = ({results}) => {
                     } else {
                         imagen_var="edifSA.png"
                     }
-                    var imageName2 = require("../Images2/"+imagen_var)    
+                    var imageName2 = require("../Images/"+imagen_var)    
                     return <ListItem description={result.descripcion} image={imageName2}  total={result.nro_hab} name={result.id} key={index}/>            
                 })}
             </Grid>

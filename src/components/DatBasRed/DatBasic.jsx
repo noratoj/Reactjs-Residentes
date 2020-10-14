@@ -17,7 +17,6 @@ const DatBasic = (props) => {
     const [error, setError] = useState('');
 
     let userId = props.match.params.employeeId;
-
     const url = baseUrl+"/api/vecinos/get/"+userId
 
 

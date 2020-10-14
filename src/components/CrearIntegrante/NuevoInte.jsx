@@ -324,7 +324,6 @@ const DatBasic = (props) => {
       console.log(error.response.data.message)      
     }
 
-
     if (load) {
 
         return (

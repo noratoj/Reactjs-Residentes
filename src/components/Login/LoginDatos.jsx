@@ -22,7 +22,6 @@ export default function Detabasic( { logins, handleInputChange, ejecutarUpdate }
 
   const classes = useStyles();
 
-   
   return (
     
     <form className={classes.root} noValidate autoComplete="off">

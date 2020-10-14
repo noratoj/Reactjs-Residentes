@@ -5,6 +5,7 @@ import { gettoken } from '../funciones/tokens'
 
 var token = gettoken()
 
+
 const ListResid = (props) => {
 
     const [results, setResults] = useState([])
