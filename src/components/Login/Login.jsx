@@ -1,7 +1,7 @@
 /* Login con el correo electrónico/email más su contraseña/password */
-import React, { useState } from 'react'
-import axios from 'axios'
-import LoginDatos from "components/Login/LoginDatos"
+import React, { useState } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
+import LoginDatos from "../Reactjs-Residentes-1/src/components/Login/LoginDatos"
 
 const Login = () => {
 

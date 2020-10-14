@@ -1,8 +1,8 @@
-import React from 'react'
-import { AppBar, Toolbar, Typography, makeStyles, IconButton, Button } from '@material-ui/core'
-import { Link } from 'react-router-dom'
+import React from '../Reactjs-Residentes-1/src/react'
+import { AppBar, Toolbar, Typography, makeStyles, IconButton, Button } from '../Reactjs-Residentes-1/src/@material-ui/core'
+import { Link } from '../Reactjs-Residentes-1/src/react-router-dom'
 
-import MenuIcon from '@material-ui/icons/Menu'
+import MenuIcon from '../Reactjs-Residentes-1/src/@material-ui/icons/Menu'
 
 const useStyle = makeStyles(theme => ({
     menuButton: {

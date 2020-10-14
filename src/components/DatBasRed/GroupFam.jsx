@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../Reactjs-Residentes-1/src/react'
 
 //import axios from 'axios'
 //const [grupoFam, setGrupoFam] = useState([])

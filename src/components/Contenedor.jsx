@@ -1,8 +1,8 @@
-import React from 'react'
-import { makeStyles, Hidden } from '@material-ui/core'
+import React from '../Reactjs-Residentes-1/src/react'
+import { makeStyles, Hidden } from '../Reactjs-Residentes-1/src/@material-ui/core'
 import NavBar from './Navbar'
 import Cajon from './Cajon'
-import Routes from 'Routes'
+import Routes from '../Reactjs-Residentes-1/src/Routes'
 
 const estilos = makeStyles(theme => ({
     root: {

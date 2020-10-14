@@ -1,9 +1,9 @@
-import React from 'react'
+import React from '../Reactjs-Residentes-1/src/react'
 
-import TextField from '@material-ui/core/TextField';
-import { makeStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
-import { Alert, AlertTitle } from '@material-ui/lab';
+import TextField from '../Reactjs-Residentes-1/src/@material-ui/core/TextField';
+import { makeStyles } from '../Reactjs-Residentes-1/src/@material-ui/core/styles';
+import Button from '../Reactjs-Residentes-1/src/@material-ui/core/Button';
+import { Alert, AlertTitle } from '../Reactjs-Residentes-1/src/@material-ui/lab';
 
 
 const useStyles = makeStyles((theme) => ({

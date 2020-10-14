@@ -1,6 +1,6 @@
 /* recorre el map.result para geerar el listado de las torres o edificios. Sino tiene imagen asignada, se le asigna edifSA.png. Número de habitantes, nombre del edif o torre  */
-import React, {Fragment} from 'react'
-import { Grid } from '@material-ui/core'
+import React, {Fragment} from '../Reactjs-Residentes-1/src/react'
+import { Grid } from '../Reactjs-Residentes-1/src/@material-ui/core'
 import ListItem from './ListItem'
 
 const ListResults = ({results}) => {

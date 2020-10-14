@@ -1,8 +1,8 @@
 /* NO se ha utilizado. La finalidad es poder ejecutar cualquier acción y verificar, por medio del TOKEN, sí esta "logueado" el usuario y SÍ LO ESTA: que el token no este vencido ya. */
 
-import React, { useState, useEffect } from 'react'
-import { Redirect } from 'react-router-dom'
-import axios from 'axios'
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import { Redirect } from '../Reactjs-Residentes-1/src/react-router-dom'
+import axios from '../Reactjs-Residentes-1/src/axios'
 import { gettoken } from './funciones/tokens'
 
 var token = gettoken()

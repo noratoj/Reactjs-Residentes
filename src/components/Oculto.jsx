@@ -1,5 +1,5 @@
-import React from 'react'
-import { withWidth, Typography, Hidden, Button } from '@material-ui/core'
+import React from '../Reactjs-Residentes-1/src/react'
+import { withWidth, Typography, Hidden, Button } from '../Reactjs-Residentes-1/src/@material-ui/core'
 
 const Oculto = (props) => {
     return (

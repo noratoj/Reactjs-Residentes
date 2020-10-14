@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { Card, CardMedia, CardContent, Typography } from '@material-ui/core'
-import { withStyles } from '@material-ui/core/styles'
+import React from '../Reactjs-Residentes-1/src/react'
+import { Link } from '../Reactjs-Residentes-1/src/react-router-dom'
+import { Card, CardMedia, CardContent, Typography } from '../Reactjs-Residentes-1/src/@material-ui/core'
+import { withStyles } from '../Reactjs-Residentes-1/src/@material-ui/core/styles'
 
 const Style = {
     height: 132,

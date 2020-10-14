@@ -1,5 +1,5 @@
-import React from 'react'
-import { makeStyles, Drawer, Divider } from '@material-ui/core'
+import React from '../Reactjs-Residentes-1/src/react'
+import { makeStyles, Drawer, Divider } from '../Reactjs-Residentes-1/src/@material-ui/core'
 import Listas from './Listas'
 
 const estilos = makeStyles(theme => ({

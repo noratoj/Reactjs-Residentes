@@ -1,4 +1,4 @@
-import {createMuiTheme} from '@material-ui/core/styles'
+import {createMuiTheme} from '../Reactjs-Residentes-1/src/@material-ui/core/styles'
 
 const theme = createMuiTheme ({
 

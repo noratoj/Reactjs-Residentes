@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
 import ListResFloor from './ListResFloor';
 import { gettoken } from '../funciones/tokens'
 

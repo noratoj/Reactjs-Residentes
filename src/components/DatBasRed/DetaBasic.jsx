@@ -1,21 +1,21 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
-import { Link } from 'react-router-dom'
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
+import { Link } from '../Reactjs-Residentes-1/src/react-router-dom'
 
-import TextField from '@material-ui/core/TextField';
-import { makeStyles } from '@material-ui/core/styles';
-import InputLabel from '@material-ui/core/InputLabel';
-import MenuItem from '@material-ui/core/MenuItem';
+import TextField from '../Reactjs-Residentes-1/src/@material-ui/core/TextField';
+import { makeStyles } from '../Reactjs-Residentes-1/src/@material-ui/core/styles';
+import InputLabel from '../Reactjs-Residentes-1/src/@material-ui/core/InputLabel';
+import MenuItem from '../Reactjs-Residentes-1/src/@material-ui/core/MenuItem';
 //import FormHelperText from '@material-ui/core/FormHelperText';
-import FormControl from '@material-ui/core/FormControl';
-import Select from '@material-ui/core/Select';
-import Button from '@material-ui/core/Button';
+import FormControl from '../Reactjs-Residentes-1/src/@material-ui/core/FormControl';
+import Select from '../Reactjs-Residentes-1/src/@material-ui/core/Select';
+import Button from '../Reactjs-Residentes-1/src/@material-ui/core/Button';
 //import ButtonGroup from '@material-ui/core/ButtonGroup';
-import Radio from '@material-ui/core/Radio';
-import RadioGroup from '@material-ui/core/RadioGroup';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import FormLabel from '@material-ui/core/FormLabel';
-import { Alert, AlertTitle } from '@material-ui/lab';
+import Radio from '../Reactjs-Residentes-1/src/@material-ui/core/Radio';
+import RadioGroup from '../Reactjs-Residentes-1/src/@material-ui/core/RadioGroup';
+import FormControlLabel from '../Reactjs-Residentes-1/src/@material-ui/core/FormControlLabel';
+import FormLabel from '../Reactjs-Residentes-1/src/@material-ui/core/FormLabel';
+import { Alert, AlertTitle } from '../Reactjs-Residentes-1/src/@material-ui/lab';
 
 import GroupFam from './GroupFam';
 

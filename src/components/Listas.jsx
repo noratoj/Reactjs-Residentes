@@ -1,9 +1,9 @@
-import React from 'react'
-import  {Link} from 'react-router-dom'
-import { List, ListItem, ListItemIcon, ListItemText, Divider     } from '@material-ui/core'
+import React from '../Reactjs-Residentes-1/src/react'
+import  {Link} from '../Reactjs-Residentes-1/src/react-router-dom'
+import { List, ListItem, ListItemIcon, ListItemText, Divider     } from '../Reactjs-Residentes-1/src/@material-ui/core'
 //icono para menú lateral
-import DomainIcon from '@material-ui/icons/Domain';
-import GraphicEqIcon from '@material-ui/icons/GraphicEq';
+import DomainIcon from '../Reactjs-Residentes-1/src/@material-ui/icons/Domain';
+import GraphicEqIcon from '../Reactjs-Residentes-1/src/@material-ui/icons/GraphicEq';
 
 const Listas = () => {
     return (

@@ -1,14 +1,14 @@
-import React from "react";
-import { Link } from 'react-router-dom'
-import { makeStyles } from "@material-ui/core/styles";
-import Table from "@material-ui/core/Table";
-import TableBody from "@material-ui/core/TableBody";
-import TableCell from "@material-ui/core/TableCell";
-import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
-import TableRow from "@material-ui/core/TableRow";
-import Paper from "@material-ui/core/Paper";
-import { Grid } from '@material-ui/core'
+import React from "../Reactjs-Residentes-1/src/react";
+import { Link } from '../Reactjs-Residentes-1/src/react-router-dom'
+import { makeStyles } from "../Reactjs-Residentes-1/src/@material-ui/core/styles";
+import Table from "../Reactjs-Residentes-1/src/@material-ui/core/Table";
+import TableBody from "../Reactjs-Residentes-1/src/@material-ui/core/TableBody";
+import TableCell from "../Reactjs-Residentes-1/src/@material-ui/core/TableCell";
+import TableContainer from "../Reactjs-Residentes-1/src/@material-ui/core/TableContainer";
+import TableHead from "../Reactjs-Residentes-1/src/@material-ui/core/TableHead";
+import TableRow from "../Reactjs-Residentes-1/src/@material-ui/core/TableRow";
+import Paper from "../Reactjs-Residentes-1/src/@material-ui/core/Paper";
+import { Grid } from '../Reactjs-Residentes-1/src/@material-ui/core'
 
 const useStyles = makeStyles({
   root: {

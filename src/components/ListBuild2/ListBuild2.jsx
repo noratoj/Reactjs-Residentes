@@ -1,5 +1,5 @@
-import React from 'react'
-import { Box } from '@material-ui/core'
+import React from '../Reactjs-Residentes-1/src/react'
+import { Box } from '../Reactjs-Residentes-1/src/@material-ui/core'
 
 const ListBuild2 = () => {
     return (

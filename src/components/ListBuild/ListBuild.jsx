@@ -1,6 +1,6 @@
 /* Para realizar el listado de las Residencias o Torres del conuunto del condominio*/
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
 import ListResults from './ListResults'
 import { gettoken } from '../funciones/tokens'
 

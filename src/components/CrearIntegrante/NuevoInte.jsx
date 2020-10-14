@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
-import NuevoInteDet from "components/CrearIntegrante/NuevoInteDet"
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
+import NuevoInteDet from "../Reactjs-Residentes-1/src/components/CrearIntegrante/NuevoInteDet"
 import { gettoken } from '../funciones/tokens'
 
 var token = gettoken()

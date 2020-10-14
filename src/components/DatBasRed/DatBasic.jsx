@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
-import DetaBasic from "components/DatBasRed/DetaBasic"
+import React, { useState, useEffect } from '../Reactjs-Residentes-1/src/react'
+import axios from '../Reactjs-Residentes-1/src/axios'
+import DetaBasic from "../Reactjs-Residentes-1/src/components/DatBasRed/DetaBasic"
 import { gettoken } from '../funciones/tokens'
 
 var token = gettoken()

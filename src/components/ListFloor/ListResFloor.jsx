@@ -1,6 +1,6 @@
-import React, {Fragment} from 'react'
+import React, {Fragment} from '../Reactjs-Residentes-1/src/react'
 import ListResItem from './ListResItem'
-import { Grid } from '@material-ui/core'
+import { Grid } from '../Reactjs-Residentes-1/src/@material-ui/core'
 
 function ListResFloor ({ results } ) {
     var imagen_var =""
